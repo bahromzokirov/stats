@@ -1,7 +1,7 @@
 package stats
 
 import (
-	"github.com/bahromzokirov/bank/pkg/types"
+	"github.com/bahromzokirov/bank/v2/pkg/types"
 )
 
  

@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/bahromzokirov/bank/pkg/types"
+	"github.com/bahromzokirov/bank/v2/pkg/types"
 )
 
 func TestCategoriesAvg(t *testing.T) {

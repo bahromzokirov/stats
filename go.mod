@@ -1,5 +1,7 @@
-module github.com/bahromzokirov/bank/v2
+module github.com/bahromzokirov/stats/v2
 
 go 1.17
 
-require github.com/bahromzokirov/bank v0.0.0-20211221042149-cb359fd15c3b
+require (
+	github.com/bahromzokirov/bank/v2 v2.0.0 // indirect
+)
