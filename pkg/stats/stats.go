@@ -4,7 +4,7 @@ import (
 	"github.com/bahromzokirov/bank/pkg/types"
 )
 
-
+ 
 func CategoriesAvg (payments []types.Payment) map[types.Category] types.Money{
 	ans := map [types.Category]types.Money{}
 	for _, i := range payments {
